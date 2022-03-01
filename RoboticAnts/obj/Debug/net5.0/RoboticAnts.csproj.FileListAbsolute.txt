@@ -1,0 +1,15 @@
+C:\lz\Training\Codingtest\ants\RoboticAnts\bin\Debug\net5.0\RoboticAnts.exe
+C:\lz\Training\Codingtest\ants\RoboticAnts\bin\Debug\net5.0\RoboticAnts.deps.json
+C:\lz\Training\Codingtest\ants\RoboticAnts\bin\Debug\net5.0\RoboticAnts.runtimeconfig.json
+C:\lz\Training\Codingtest\ants\RoboticAnts\bin\Debug\net5.0\RoboticAnts.runtimeconfig.dev.json
+C:\lz\Training\Codingtest\ants\RoboticAnts\bin\Debug\net5.0\RoboticAnts.dll
+C:\lz\Training\Codingtest\ants\RoboticAnts\bin\Debug\net5.0\ref\RoboticAnts.dll
+C:\lz\Training\Codingtest\ants\RoboticAnts\bin\Debug\net5.0\RoboticAnts.pdb
+C:\lz\Training\Codingtest\ants\RoboticAnts\obj\Debug\net5.0\RoboticAnts.GeneratedMSBuildEditorConfig.editorconfig
+C:\lz\Training\Codingtest\ants\RoboticAnts\obj\Debug\net5.0\RoboticAnts.AssemblyInfoInputs.cache
+C:\lz\Training\Codingtest\ants\RoboticAnts\obj\Debug\net5.0\RoboticAnts.AssemblyInfo.cs
+C:\lz\Training\Codingtest\ants\RoboticAnts\obj\Debug\net5.0\RoboticAnts.csproj.CoreCompileInputs.cache
+C:\lz\Training\Codingtest\ants\RoboticAnts\obj\Debug\net5.0\RoboticAnts.dll
+C:\lz\Training\Codingtest\ants\RoboticAnts\obj\Debug\net5.0\ref\RoboticAnts.dll
+C:\lz\Training\Codingtest\ants\RoboticAnts\obj\Debug\net5.0\RoboticAnts.pdb
+C:\lz\Training\Codingtest\ants\RoboticAnts\obj\Debug\net5.0\RoboticAnts.genruntimeconfig.cache
